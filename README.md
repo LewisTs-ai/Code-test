@@ -9,6 +9,7 @@ After you download it. Run the following commany in your command line interface 
 python TextSummarization.py "Your own text"
 
 Example:
+
 python TextSummarization.py "Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals. Leading AI textbooks define the field as the study of intelligent agents: any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.Colloquially, the term artificial intelligence is often used to describe machines (or computers) that mimic cognitive functions that humans associate with the human mind, such as learning and problem solving."
 
 The output should give something like this(the latter part of the output is the summary):
