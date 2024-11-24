@@ -4,7 +4,7 @@ Code test for text analysis- DocLegal.ai
 I have chosen the second task -- Text summarization.
 
 To use my model you can download the python file of text summarization.py in the repository.
-After you download it. Run the following commany in your command line interface with your own text you want to summarize.
+After you download it. Run the following commany in your command line interface with your own text you want to summarize. Please wait for few miniutes as it takes time to download the files of the model.
 
 python TextSummarization.py "Your own text"
 
